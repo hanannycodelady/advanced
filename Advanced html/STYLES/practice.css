@@ -1,0 +1,20 @@
+.my_name{
+    background-color: bisque;
+}
+table,td,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-size: larger;
+    background-color: rgb(30, 210, 111);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+}
+table tr:nth-child(even){
+    background-color:coral
+}
+    
+    
+    
+    table td:nth-child( even){
+        background-color: brown;
+    }
